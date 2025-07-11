@@ -1,2 +1,2 @@
-;; Generated package description from .el  -*- eldocno-byte-compile: t -*-
-(define-package "eldoc" "1.15.0.0.20250329.105231" "Show function arglist or variable docstring in echo area" '((emacs "26.3")) :commit "b98fe25c2ee2ac2d82b337c49d1aa1dfed2417eb" :url "https://elpa.gnu.org/packages/eldoc.html" :authors '(("Noah Friedman" . "friedman@splode.com")) :maintainer '("Noah Friedman" . "friedman@splode.com") :keywords '("extensions"))
+;; Generated package description from eldoc.el  -*- no-byte-compile: t -*-
+(define-package "eldoc" "1.16.0.0.20250709.192845" "Show function arglist or variable docstring in echo area" '((emacs "26.3")) :commit "99080d0c04931b5d45026e1ee44526bbbb8dfdef" :url "https://elpa.gnu.org/packages/eldoc.html" :authors '(("Noah Friedman" . "friedman@splode.com")) :maintainer '("Noah Friedman" . "friedman@splode.com") :keywords '("extensions"))
